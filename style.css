@@ -1,4 +1,14 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif
+}
+    
+body{
+    font-size: 20px;
+}
+
+h2{
+    color: rgb(35, 182, 35);
+    text-shadow: 0.10em 0.10em 0.1em #831d1c;
+    text-decoration: underline;
+    text
 }
